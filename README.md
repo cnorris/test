@@ -3,6 +3,8 @@
 * [Download ZIP](http://tutorials.pipeline-dev.services.acquia.io/pipelinestutorial501.zip)
 * [Watch video](https://drive.google.com/a/acquia.com/file/d/0BwBnqz3kkaPuY2M3blNlc1pOTk0)
 
+Minor edit
+
 The purpose of the 501 tutorial is to demonstrate the Pipelines web env and show how you can run Behat as an example use of the web
 environment. One of the Behat tests will publish the email variable you encypt to a private Pipelines validation hipchat room, 
 confirming to the Pipelines product ownership team that you have completed this tutorial and are qualified on Pipelines.
